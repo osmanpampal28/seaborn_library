@@ -91,8 +91,21 @@ git clone https://github.com/osmanpampal28/seaborn_library.git
 
 ```
 # Seaborn Veri Setleri
-* planets <br>
-Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir
+* **diamonds** <br>
+_Belirli bazı elmaslar alınıp özelliklerinin veri seti_
+    * carat: Elmas ağırlığı (0.2-5.01 gram)
+    * cut: Elmasın kesim kalitesi (Fair, Good, Very Good, Premium, Ideal)
+    * color: Elmasın rengi (J en kötüsü, D en iyisi)
+    * clarity: Elmasın berraklığı (I1 (En kötü), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (En iyi))
+    * depth: Toplam derinlik yüzdesi (z/ortalama(x, y) = 2 * z / (x + y) (43-79))
+    * table: Elmasın en geniş noktasına göre derinliği (43-95)
+    * price: Elmasın dolar bazında fiyatı (326-18.823)
+    * x: Milimetrik cinsten uzunluğu (0-10.74)
+    * y: Milimetrik cinsten genişliği (0-58.90)
+    * z: Milimetrik cinsten derinliği (0-31.80)
+
+* **planets** <br>
+_Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir_
     * method: Galaksilerin bulunması için gereli yöntem adı
     * number: Bulunan galaksilerdeki gezegen sayısı
     * orbital_period: Yörünge dönemini gösterir (0.09-730000)
@@ -100,8 +113,8 @@ Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir
     * distance: Bulunan galaksinin bizim galaksimize olan uzaklığı
     * year: Galaksinin Bulunduğu sene (1989-2014)
 
-* tips <br>
- Bir restorandaki ödenen toplam para ile ilişkilendirilen değerlerin tutulduğu veri setidir
+* **tips** <br>
+ _Bir restorandaki ödenen toplam para ile ilişkilendirilen değerlerin tutulduğu veri setidir_
     * total_bill: Hesabın tutarı (dolar) (3.07-50.81)
     * tip: Bırakılan bahşiş tutarı (dolar) (1-10)
     * sex: Hesabı ödeyen kişinin cinsiyeti (Male, Female)
@@ -109,6 +122,7 @@ Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir
     * day: Haftanın hangi günü (Thur, Fri, Sat, Sun)
     * time: Günün hangi dilimi (Lunch, Dinner)
     * size: Masaya oturan kişi sayısı
+
 
 
 

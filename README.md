@@ -128,3 +128,4 @@ _Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir_
 
 
 
+

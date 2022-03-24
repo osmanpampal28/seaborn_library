@@ -104,6 +104,14 @@ _Belirli bazı elmaslar alınıp özelliklerinin veri seti_
     * y: Milimetrik cinsten genişliği (0-58.90)
     * z: Milimetrik cinsten derinliği (0-31.80)
 
+* **iris** <br>
+_Belirli bir cinse ait çiçek türlerini birbirinden ayırmak için yaprak uzunlukları ve genişlikleri kullanılır. Türlere göre bu özellikleri tutan veri setidir._
+    * sepal_length: Cm cinsinden çanak yaprağın uzunluğu (4.3-7.9)
+    * sepal_width: Cm cinsinden çanak yaprağın genişliği (2.0-4.4)
+    * petal_length: Cm cinsinden taç yaprak uzunluğu (1.0-6.9)
+    * petal_width: Cm cinsinden taç yaprak genişliği (0.1-2.5)
+    * species: Bitkinin türü
+
 * **planets** <br>
 _Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir_
     * method: Galaksilerin bulunması için gereli yöntem adı

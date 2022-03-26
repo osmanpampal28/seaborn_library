@@ -112,6 +112,12 @@ _Belirli bir cinse ait çiçek türlerini birbirinden ayırmak için yaprak uzun
     * petal_width: Cm cinsinden taç yaprak genişliği (0.1-2.5)
     * species: Bitkinin türü
 
+* **flights** <br>
+_Yıl ve aylara göre yapılan uçak kazalarında ölen insanların sayısını tutan veri setidir._
+    * year: Kazanın yapıldığı yıl (1949- 1960)
+    * month: Kazanın yapıldığı ay
+    * passengers: Yolcu sayısı (104-622)
+
 * **planets** <br>
 _Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir_
     * method: Galaksilerin bulunması için gereli yöntem adı

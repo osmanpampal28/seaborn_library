@@ -118,6 +118,18 @@ _Yıl ve aylara göre yapılan uçak kazalarında ölen insanların sayısını 
     * month: Kazanın yapıldığı ay
     * passengers: Yolcu sayısı (104-622)
 
+* **mpg** <br>
+_Arabaların özelliklerine göre sıralandığı veri setidir._
+    * mpg: 1 galon benzin ile katedilen yol (1 galon = 3.7 L, 1 mil = 1.6 Km)(9-46.6)
+    * cylinders: Arabada bulunan silindir sayısı
+    * displacement: Motor hacmi (68-455)
+    * horsepower: Beygir gücü (46-230)
+    * weight: Ağırlık (1613-5140)
+    * acceleration: Saniye cinsinden 0-100 Km/s hıza ulaşma süresi (8-24.8)
+    * model_year: 1900'lü yıllara göre araba modeli yılı (70-82)
+    * origin: Arabanın üretim yılı
+    * name: Arabanın model ismi
+    
 * **planets** <br>
 _Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir_
     * method: Galaksilerin bulunması için gereli yöntem adı

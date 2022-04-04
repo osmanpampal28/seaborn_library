@@ -122,7 +122,7 @@ _Yıl ve aylara göre yapılan uçak kazalarında ölen insanların sayısını 
 _Canlılarını beynine bağlanan bir cihaz aracılığıyla gelen sinyallerin yakalanıp, işlenen bir veri setidir._
     * subject: Verilerin toplandığı 14 kişi (14 canlı var ve bunların her biri 76 kez deneye sokuluyor.)
     * timepoint: Zaman noktaları (0-18)
-    * event: Verinin nasıl toplandığı bölgeyi ifade ediyor. 
+    * event: Verinin nasıl toplandığını ediyor. 
     * region: Beyinde sinyalin toplandığı bölgeyi ifade ediyor.
     * signal: Gelen sinyalin gücü (-0.255- 0.564)
 

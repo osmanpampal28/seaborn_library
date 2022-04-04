@@ -118,6 +118,13 @@ _Yıl ve aylara göre yapılan uçak kazalarında ölen insanların sayısını 
     * month: Kazanın yapıldığı ay
     * passengers: Yolcu sayısı (104-622)
 
+* **fmri** <br>
+_Canlılarını beynine bağlanan bir cihaz aracılığıyla gelen sinyallerin yakalanıp, işlenen bir veri setidir._
+    * subject: Verilerin toplandığı 14 kişi (14 canlı var ve bunların her biri 76 kez deneye sokuluyor.)
+    * timepoint: Zaman noktaları (0-18)
+    * event: Verinin nasıl toplandığı bölgeyi ifade ediyor. 
+    * signal: Gelen sinyalin gücü (-0.255- 0.564)
+
 * **mpg** <br>
 _Arabaların özelliklerine göre sıralandığı veri setidir._
     * mpg: 1 galon benzin ile katedilen yol (1 galon = 3.7 L, 1 mil = 1.6 Km)(9-46.6)

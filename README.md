@@ -123,6 +123,7 @@ _Canlılarını beynine bağlanan bir cihaz aracılığıyla gelen sinyallerin y
     * subject: Verilerin toplandığı 14 kişi (14 canlı var ve bunların her biri 76 kez deneye sokuluyor.)
     * timepoint: Zaman noktaları (0-18)
     * event: Verinin nasıl toplandığı bölgeyi ifade ediyor. 
+    * region: Beyinde sinyalin toplandığı bölgeyi ifade ediyor.
     * signal: Gelen sinyalin gücü (-0.255- 0.564)
 
 * **mpg** <br>

@@ -176,6 +176,16 @@ _Nasa'nın yayınladığı galaksi keşfi ile ilgili veri setidir_
     * distance: Bulunan galaksinin bizim galaksimize olan uzaklığı
     * year: Galaksinin Bulunduğu sene (1989-2014)
 
+* **penguins**<br>
+_Özel penguenlerin vücut özelliklerinden yapılan veri seti_
+    * species: Penguenin türü
+    * island: Penguenin bulunduğu ada
+    * bill_length_mm: Gaga uzunluğu mm (32.1 - 59.6)
+    * bill_depth_mm: Gaga derinliği mm (13.1 - 21.5)
+    * flipper_length_mm: Yüzgeç uzunluğu mm (172- 231)
+    * body_mass_g: Gram olarak penguenin ağırlığı (2700 - 6300)
+    * sex: Penguenin cinsiyeti (male - female)
+
 * **tips** <br>
  _Bir restorandaki ödenen toplam para ile ilişkilendirilen değerlerin tutulduğu veri setidir_
     * total_bill: Hesabın tutarı (dolar) (3.07-50.81)

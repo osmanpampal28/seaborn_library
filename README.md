@@ -126,13 +126,6 @@ _Bir grup insanın diyet yaparken yağ tüketip tüketmemelerine göre nabızlar
     * time: Yaptığı eylem sırasında geçen süre
     * kind: Yaptığı eylem, içinde bulunduğu durum
 
-* **iris** <br>
-_Belirli bir cinse ait çiçek türlerini birbirinden ayırmak için yaprak uzunlukları ve genişlikleri kullanılır. Türlere göre bu özellikleri tutan veri setidir._
-    * sepal_length: Cm cinsinden çanak yaprağın uzunluğu (4.3-7.9)
-    * sepal_width: Cm cinsinden çanak yaprağın genişliği (2.0-4.4)
-    * petal_length: Cm cinsinden taç yaprak uzunluğu (1.0-6.9)
-    * petal_width: Cm cinsinden taç yaprak genişliği (0.1-2.5)
-    * species: Bitkinin türü
 
 * **flights** <br>
 _Yıl ve aylara göre yapılan uçak kazalarında ölen insanların sayısını tutan veri setidir._
@@ -147,6 +140,20 @@ _Canlılarını beynine bağlanan bir cihaz aracılığıyla gelen sinyallerin y
     * event: Verinin nasıl toplandığını ediyor. 
     * region: Beyinde sinyalin toplandığı bölgeyi ifade ediyor.
     * signal: Gelen sinyalin gücü (-0.255- 0.564)
+
+* **geyser**<br>
+_Dünya çapında bulunan gayzerlerin özellikleri_
+    * duration: Saniye olarak sıcak suyu havaya püskürtme süresi (1.6 - 5.1)
+    * waiting: Saniye olarak tekrardan sıcak su püskürtmesi için beklenen süre (43 - 96)
+    * kind: Gayzerin türü (waiting < 70:short, waiting > 70 : long)
+
+* **iris** <br>
+_Belirli bir cinse ait çiçek türlerini birbirinden ayırmak için yaprak uzunlukları ve genişlikleri kullanılır. Türlere göre bu özellikleri tutan veri setidir._
+    * sepal_length: Cm cinsinden çanak yaprağın uzunluğu (4.3-7.9)
+    * sepal_width: Cm cinsinden çanak yaprağın genişliği (2.0-4.4)
+    * petal_length: Cm cinsinden taç yaprak uzunluğu (1.0-6.9)
+    * petal_width: Cm cinsinden taç yaprak genişliği (0.1-2.5)
+    * species: Bitkinin türü
 
 * **mpg** <br>
 _Arabaların özelliklerine göre sıralandığı veri setidir._

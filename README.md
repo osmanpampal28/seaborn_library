@@ -94,6 +94,17 @@ git clone https://github.com/osmanpampal28/seaborn_library.git
 Veri Setleri ile ilgili Bilgileri Bulduğum Yer (Medium)[https://senolomer0.medium.com/seaborn-veri-setlerinin-hikayeleri-a773f9a3327e]
 
 # Seaborn Veri Setleri
+* **car_crashes** <br>
+_ABD'nin eyaletlerinde yapılan kazalar, oluşma sebepleri ve kaza sonucunda oluşan maaliyetleri gösterir._
+    * total: Milyal mil başına ölümcül çarpışmaya karışan sürücü sayısı (5.900 - 23.900)
+    * speeding: Yüksek hız sebebiyle ölümcül kaza yapan sürücülerin yüzdesi (1.792 - 9.450)
+    * alcohol: Alkol nedeniyle ölümcül kaza yapan sürücülerin yüzdesi (1.593 - 10.038)
+    * not_distracted: Dikkatsizlik nedeniyle ölümcül kaza yapan sürücü yüzdesi (1.792 - 9.450)
+    * no_previous: Daha önce kazaya karışmamış sürücü yüzdesi (5.900 - 21.280)
+    * ins_premium: Araç sigorta primleri (641.960 - 1301.520)
+    * ins_loses: Sürücü başına Sigorta şirketlerinin zararı (82.75 - 194.780)
+    * abbrev: ABD eyalet kısaltmaları
+
 * **diamonds** <br>
 _Belirli bazı elmaslar alınıp özelliklerinin veri seti_
     * carat: Elmas ağırlığı (0.2-5.01 gram)

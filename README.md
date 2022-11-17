@@ -90,6 +90,9 @@ _Bu Test Italic_
 git clone https://github.com/osmanpampal28/seaborn_library.git
 
 ```
+
+Veri Setleri ile ilgili Bilgileri Bulduğum Yer (Medium)[https://senolomer0.medium.com/seaborn-veri-setlerinin-hikayeleri-a773f9a3327e]
+
 # Seaborn Veri Setleri
 * **diamonds** <br>
 _Belirli bazı elmaslar alınıp özelliklerinin veri seti_
@@ -103,6 +106,14 @@ _Belirli bazı elmaslar alınıp özelliklerinin veri seti_
     * x: Milimetrik cinsten uzunluğu (0-10.74)
     * y: Milimetrik cinsten genişliği (0-58.90)
     * z: Milimetrik cinsten derinliği (0-31.80)
+
+* **exercise**<br>
+_Bir grup insanın diyet yaparken yağ tüketip tüketmemelerine göre nabızlarının ne kadar olduğunun ölçülmesidir_
+    * id: Deney yapılan kişinin numarası (1- 30)
+    * diet: Diyet yaparken ne kadar yağla beslendiği (no fat, low fat)
+    * pulse: Kişinin nabız (80-150)
+    * time: Yaptığı eylem sırasında geçen süre
+    * kind: Yaptığı eylem, içinde bulunduğu durum
 
 * **iris** <br>
 _Belirli bir cinse ait çiçek türlerini birbirinden ayırmak için yaprak uzunlukları ve genişlikleri kullanılır. Türlere göre bu özellikleri tutan veri setidir._

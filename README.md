@@ -196,9 +196,20 @@ _Özel penguenlerin vücut özelliklerinden yapılan veri seti_
     * time: Günün hangi dilimi (Lunch, Dinner)
     * size: Masaya oturan kişi sayısı
 
-
-
-
-
-
-
+* **titanic** <br>
+_Titanic gemisindeki yolcu verileri_
+    * survived: Hayatta kalma durumu (0:hayır, 1: evet)
+    * pclass: Üst sınıf yolcular (1, 2, 3, iyiden kötüye)
+    * sex: Cinsiyet (Male, Female)
+    * age: Yaş
+    * sibsp: Yolcunun gemideki kardeş sayısı
+    * parch: Yolcunun gemideki akraba sayısı
+    * fare: Bilet için ödenen para
+    * embarked: Yolcunun gemiye bindiği kapı
+    * class: Yolcu sınıfı
+    * who: Yolcunun dağılımı (Child, Man, Woman)
+    * adult_male: Yolcunun erkek olup olmadığı (True, False)
+    * deck: Yolcunun bulunduğu güverte
+    * embark_town: Yolcunun gemiye bindiği iskelenin bulunduğu şehir
+    * alive: Yolcunun hayatta kalıp kalmadığı (No, Yes)
+    * alone: Yolcunun yalnız olup olmadığı (True, False)
